@@ -1,2 +1,2 @@
 # NewsAPI
-Deploy
+this is just for showcase
